@@ -20,7 +20,7 @@ Steps which you need to perform is
      - Your setup is ready
      - Now you need to just add the code from java file and xml file
      # Output
- ![mainscreen](https://user-images.githubusercontent.com/42214175/74099038-445d1900-4b45-11ea-9664-80bd51261368.jpg)
+ ![phone](https://user-images.githubusercontent.com/42214175/74102485-ca8b5680-4b69-11ea-96d5-982b0e2c12ac.png)
  ![secondscreen](https://user-images.githubusercontent.com/42214175/74099037-43c48280-4b45-11ea-8fff-87ea3dfb8ba9.jpg)
 ![finalscreen](https://user-images.githubusercontent.com/42214175/74099036-432bec00-4b45-11ea-9cac-83e7f719c9d6.jpg)
 
