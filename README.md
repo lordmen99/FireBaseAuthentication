@@ -21,8 +21,8 @@ Steps which you need to perform is
      - Now you need to just add the code from java file and xml file
      # Output
  ![phone](https://user-images.githubusercontent.com/42214175/74102485-ca8b5680-4b69-11ea-96d5-982b0e2c12ac.png)
- - ![firstpage](https://user-images.githubusercontent.com/42214175/74102544-49808f00-4b6a-11ea-8109-ce4c873b0659.jpg)
- - ![secondpage](https://user-images.githubusercontent.com/42214175/74102558-8ba9d080-4b6a-11ea-95fb-bb315acbd258.jpg)
+ ![firstpage](https://user-images.githubusercontent.com/42214175/74102544-49808f00-4b6a-11ea-8109-ce4c873b0659.jpg)
+ ![secondpage](https://user-images.githubusercontent.com/42214175/74102558-8ba9d080-4b6a-11ea-95fb-bb315acbd258.jpg)
 
 # Let me show you firebase screen that when a user registered it is visible in firebase app
 - ![Screenshot (110)](https://user-images.githubusercontent.com/42214175/74099062-97cf6700-4b45-11ea-98e0-6b2e91fd98b7.png)
